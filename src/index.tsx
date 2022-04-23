@@ -13,20 +13,20 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Desenvolvedor iOS',
+          title: 'Desenvolvedor Front-End',
           type: 'deposit',
           category: 'Dev',
-          amount: 1000,
+          amount: 7000,
           createdAt: new Date('2022-04-20 11:00:00'),
         },
-        {
-          id: 2,
-          title: 'Compras Mercado',
-          type: 'withdraw',
-          category: 'Mercado',
-          amount: 500,
-          createdAt: new Date('2022-04-21 15:00:00'),
-        }
+        // {
+        //   id: 2,
+        //   title: 'Compras Mercado',
+        //   type: 'withdraw',
+        //   category: 'Mercado',
+        //   amount: 500,
+        //   createdAt: new Date('2022-04-21 15:00:00'),
+        // }
       ],
     })
   },
