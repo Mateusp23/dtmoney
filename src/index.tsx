@@ -16,7 +16,7 @@ createServer({
           title: 'Desenvolvedor iOS',
           type: 'deposit',
           category: 'Dev',
-          amount: '7500',
+          amount: 1000,
           createdAt: new Date('2022-04-20 11:00:00'),
         },
         {
@@ -24,7 +24,7 @@ createServer({
           title: 'Compras Mercado',
           type: 'withdraw',
           category: 'Mercado',
-          amount: '500',
+          amount: 500,
           createdAt: new Date('2022-04-21 15:00:00'),
         }
       ],
