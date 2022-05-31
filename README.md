@@ -1,3 +1,10 @@
+segue abaixo os prints da aplicação
+
+![home-dt-money](https://user-images.githubusercontent.com/61236430/164916498-ff7c9467-e2d7-4133-be16-feaf804402ad.PNG)
+
+![modal-dt-money](https://user-images.githubusercontent.com/61236430/164916565-429788bd-38b3-4047-b0e3-96181f165fdf.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
