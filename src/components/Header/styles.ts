@@ -29,3 +29,8 @@ export const Content = styled.div`
     }
   }
 `;
+
+export const ContentButtons = styled.div`
+  display: flex;
+  gap: 0.5rem;
+`;
